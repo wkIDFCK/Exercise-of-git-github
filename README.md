@@ -1,2 +1,2 @@
 # Exercise-of-git-github
-for learing
+for learning
